@@ -1,0 +1,107 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    max-width: 75%;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+p.jsx {
+    color: white;
+    font-size: 150%;
+    margin: 2px;
+}
+
+.navbar {
+    background-color: #389c3d;
+    margin: 10px 0px 0px 0px;
+    border-radius: 3px;
+}
+
+.page-footer {
+    margin: 10px 0px 0px 0px;
+    border-radius: 3px;
+    background-color: #389c3d;
+}
+
+.catagories {
+    max-width: 100%;
+    background-color: #389c3d;
+}
+
+.output {
+    background-color: blue;
+    margin: 60px;
+
+}
+
+.types {
+    background-color: white;
+}
+
+.przn {
+    margin: 27px;
+}
+
+.func {
+    margin: 22px;
+}
+
+.game {
+    margin: 25px 0px 0px 0px;
+}
+
+h1 {
+    font-size: medium;
+    margin: 20px;
+    color: black;
+}
+
+a.btn {
+    width: 115px;
+    height: 115px;
+    margin: 20px;
+}
+
+.btn-info {
+    background-color: #389c3d;
+    border: none;
+}
+
+.carousel {
+    margin: 0px 0px 0px 0px;
+}
+
+.priznachenya {
+    float: left;
+}
+
+
+
+.priznachenya1 {
+    float: right;
+}
+
+.wrapper {
+    border: 2px solid black;
+    clear: both;
+}
+
+.wrapper1 {
+    border: 2px solid black;
+    clear: both;
+}
+
+.jsr {
+    clear: both;
+}
+
+.row {
+    margin: 20px;
+}
+
+#1 {
+    margin: 20px ;
+}
